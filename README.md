@@ -101,15 +101,15 @@ https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/Publish
 
 - Principe du protocole HTTP et du serveur Web
 - Comment transférer ses pages sur un serveur : FTP
-    - Techniques pro : créer son serveur, louer un espace (exemple : OVH)
-    - Cas Repl.it
-    - Techniques du cloud : Netlify, Vercel
+    - Techniques pro : créer son serveur, louer un espace (exemple : [OVH](https://www.ovh.com/fr))
+    - Cas [Repl.it](https://repl.it)
+    - Techniques du cloud : [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/)
 
-- Trouver un hébergeur gratuit : 000webhost, PlanetHoster
+- Trouver un hébergeur gratuit : [000webhost](https://fr.000webhost.com/), [PlanetHoster](https://www.planethoster.com/fr/)
 - Créer un compte, créer un accès FTP, utiliser cet accès (https://www.youtube.com/watch?v=rsxUXE7V7GE mais cette vidéo date de 2014...)
 
 - Respecter l'arborescence
 
 ### La technique Netlify / Github
-Il faut un compte Github.
+Il faut un compte [Github](https://github.com/).
 Voir [la page developer.mozilla.org](https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/Publishing_your_website#publishing_via_github) pour publier son code sur GitHub.
