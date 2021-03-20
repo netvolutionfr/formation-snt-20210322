@@ -14,10 +14,11 @@
 [Télécharger le programme](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/08/5/spe641_annexe_1063085.pdf)
 
 ### Sites web :
-    - https://developer.mozilla.org/
-    - https://developer.mozilla.org/fr/docs/Learn/HTML
-    - https://www.w3.org/Style/Examples/011/firstcss.fr.html
-    - https://www.ionos.fr/digitalguide/sites-internet/developpement-web/apprendre-le-html-le-tutoriel-pour-debutant/
+- https://developer.mozilla.org/
+- https://developer.mozilla.org/fr/docs/Learn/HTML
+- https://www.w3.org/Style/Examples/011/firstcss.fr.html
+- https://www.ionos.fr/digitalguide/sites-internet/developpement-web/apprendre-le-html-le-tutoriel-pour-debutant/
+
 ### Librairie ENI
 Le livre, ou les vidéos (exemple : vidéo "HTML, CSS et JavaScript-Les fondamentaux du développement web
 ")
@@ -44,8 +45,8 @@ https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web
 https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/Installing_basic_software
 
 - Navigateur (Firefox, Safari, Edge, Chrome)
-- Editeur en ligne : repl.it
-- VSCode
+- Editeur en ligne : [repl.it](https://repl.it)
+- VSCode ([téléchargement](https://code.visualstudio.com/download))
 - Autres outils
 
 > Config choisie : VSCode + Chrome (pourquoi ?)
