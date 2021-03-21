@@ -14,10 +14,11 @@
 [Télécharger le programme](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/08/5/spe641_annexe_1063085.pdf)
 
 ### Sites web :
-- https://developer.mozilla.org/
-- https://developer.mozilla.org/fr/docs/Learn/HTML
-- https://www.w3.org/Style/Examples/011/firstcss.fr.html
-- https://www.ionos.fr/digitalguide/sites-internet/developpement-web/apprendre-le-html-le-tutoriel-pour-debutant/
+- [Site développeurs Mozilla](https://developer.mozilla.org/)
+- [Apprendre l'HTML, par Mozilla](https://developer.mozilla.org/fr/docs/Learn/HTML)
+- [Tuto HTML/CSS, sur W3C](https://www.w3.org/Style/Examples/011/firstcss.fr.html)
+- [Tuto HTML/CSS, chez Ionos](https://www.ionos.fr/digitalguide/sites-internet/developpement-web/apprendre-le-html-le-tutoriel-pour-debutant/)
+- Plusieurs tutos de niveaux très variés [Grafikart](https://grafikart.fr/)
 
 ### Librairie ENI
 Le livre, ou les vidéos (exemple : vidéo "HTML, CSS et JavaScript-Les fondamentaux du développement web
@@ -99,14 +100,22 @@ https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/CSS_bas
 ## Publier votre site web
 https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/Publishing_your_website
 
+Tutoriel vidéo : comment héberger son site par [Grafikart](https://grafikart.fr/)
+
+[![Mettre son site en ligne](http://img.youtube.com/vi/ej-Fax5NuUw/0.jpg)](http://www.youtube.com/watch?v=ej-Fax5NuUw)
+
+
 - Principe du protocole HTTP et du serveur Web
-- Comment transférer ses pages sur un serveur : FTP
+- Comment transférer ses pages sur un serveur : FTP. Voir la vidéo Grafikart à partir de [13'19"](http://www.youtube.com/watch?v=ej-Fax5NuUw&t=13m19s) comment se servir de FileZilla et d'un compte FTP.
+
     - Techniques pro : créer son serveur, louer un espace (exemple : [OVH](https://www.ovh.com/fr))
     - Cas [Repl.it](https://repl.it)
     - Techniques du cloud : [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/)
 
 - Trouver un hébergeur gratuit : [000webhost](https://fr.000webhost.com/), [PlanetHoster](https://www.planethoster.com/fr/)
-- Créer un compte, créer un accès FTP, utiliser cet accès (https://www.youtube.com/watch?v=rsxUXE7V7GE mais cette vidéo date de 2014...)
+- Créer un compte, créer un accès FTP, utiliser cet accès (mais cette vidéo date de 2014...)
+
+[![Créer un compte FTP sur PlanetHoster](http://img.youtube.com/vi/rsxUXE7V7GE/0.jpg)](http://www.youtube.com/watch?v=rsxUXE7V7GE)
 
 - Respecter l'arborescence
 
